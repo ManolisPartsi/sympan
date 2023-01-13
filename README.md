@@ -1,6 +1,5 @@
 # sympan
 
-## otelo
 ### email
 Sympan 2023
 
